@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PHASE-1 PROJECT</title>
+  <link rel="stylesheet" href="styles/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-name">🥾EXTREME SHOES</span>
+    </div>
+    <div class="tagline">Get a pair that fits your vibe</div>
+  </header>
+
+  <div class="controls">
+    <form id="shoe-search" class="search-form">
+      <input type="text" name="search" placeholder="Search for shoes..." />
+      <button type="submit">Search</button>
+    </form>
+
+    <select id="style-filter">
+      <option value="">All Styles</option>
+      <option value="sneakers">Sneakers</option>
+      <option value="running_sneakers">Running Sneakers</option>
+      <option value="boots">Boots</option>
+    </select>
+
+    <select id="size-filter">
+      <option value="">All Sizes</option>
+      <option value="plus">Plus Size</option>
+      <option value="tiny">Tiny Size</option>
+    </select>
+  </div>
+
+  <div class="app-wrapper">
+    <div class="content">
+
+      <aside class="brand-list">
+        <h3 class="sidebar-title">BRAND</h3>
+        <ul id="Shoe-Brands" class="brand-items"></ul>
+      </aside>
+
+      <section class="shoe-card">
+        <h2 id="title" class="shoe-title">[BRAND NAME]</h2>
+        <img
+          id="poster"
+          src="https://via.placeholder.com/320x480?text=REPLACE+ME"
+          alt="Shoe poster"
+          class="shoe-image"
+        />
+        <p id="description" class="shoe-description">[INSERT SHOE DESCRIPTION HERE]</p>
+
+        <div class="meta-info">
+          <p><strong>Size:</strong> <span id="available-items">[SHOE SIZE]</span></p>
+          <p><strong>Selected:</strong> <span id="available-shoes">0</span> pairs</p>
+        </div>
+
+        <div class="button-group">
+          <button id="add-to-cart">Add to Cart 🛒</button>
+          <button id="purchase">BUY</button>
+        </div>
+      </section>
+
+    </div>
+  </div>
+
+  <script src="src/index.js"></script>
+</body>
+</html>

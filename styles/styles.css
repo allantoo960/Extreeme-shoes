@@ -1,0 +1,248 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-color: #f7f9fa;
+  color: #333;
+  line-height: 1.6;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #2e7d32;
+  border-bottom: 2px solid #1b5e20;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
+
+.brand-name {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.tagline {
+  font-size: 1rem;
+  font-style: italic;
+  color: #c8e6c9;
+  text-align: right;
+}
+
+.main-title {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 2.4rem;
+  color: #4CAF50;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-bottom: 15px;
+}
+
+#shoe-search {
+  display: flex;
+  gap: 6px;
+}
+
+#shoe-search input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+#shoe-search button,
+.button-group button {
+  padding: 10px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+#shoe-search button:hover,
+.button-group button:hover {
+  background-color: #388e3c;
+}
+
+#style-filter, #size-filter {
+  padding: 10px 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.app-wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 10px;
+  height: calc(100vh - 140px); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  gap: 30px;
+  width: 100%;
+  height: 100%;
+  align-items: stretch; 
+}
+
+.brand-list {
+  width: 220px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.sidebar-title {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: #555;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 8px;
+}
+
+.brand-items {
+  list-style: none;
+  padding-left: 0;
+}
+
+.brand-items li {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.brand-items li:hover {
+  background-color: #e9f5ee;
+}
+
+.shoe-card {
+  flex: 1;
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden; 
+}
+
+.shoe-title {
+  color: #4CAF50;
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.shoe-image {
+  width: 100%;
+  height: 250px; 
+  border-radius: 5px;
+  margin-bottom: 10px;
+  object-fit: contain;
+  background-color: #f9f9f9; 
+}
+
+.shoe-description {
+  font-size: 0.95rem;
+  color: #444;
+  text-align: justify;
+  margin-bottom: 15px;
+}
+
+.meta-info {
+  font-size: 0.95rem;
+  margin-bottom: 15px;
+  color: #666;
+}
+
+.button-group {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button-group button {
+  flex: 1;
+}
+
+.brand-list::-webkit-scrollbar,
+.shoe-card::-webkit-scrollbar {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  html, body {
+    overflow: auto;
+  }
+
+  .app-wrapper {
+    height: auto;
+    padding: 20px;
+  }
+
+  .content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .brand-list,
+  .shoe-card {
+    width: 90%;
+    height: auto;
+  }
+
+  .controls {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .button-group {
+    flex-direction: column;
+    width: 100%;
+  }
+}

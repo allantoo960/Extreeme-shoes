@@ -1,0 +1,244 @@
+{
+  "shoes": [
+    {
+      "id": "A1",
+      "name": "Adidas Ultraboost 22",
+      "brand": "Adidas",
+      "description": "Premium running shoe known for its energy return and comfortable Boost midsole. A great daily trainer.",
+      "size": "13.5",
+      "style": "running_sneakers",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/5XXK39OxOgBeWFtF3c34YWmg9hz0kow53Gu9V4MamDo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lbi1h/ZS5zc3Nwb3J0cy5j/b20vZHcvaW1hZ2Uv/djIvQkRWQl9QUkQv/b24vZGVtYW5kd2Fy/ZS5zdGF0aWMvLS9T/aXRlcy1ha2VuZW8t/bWFzdGVyLWNhdGFs/b2cvZGVmYXVsdC9k/dzBhNTE5ZjRjL3Nz/cy9TU1MyL0EvRC9I/L1EvOC9TU1MyX0FE/SFE4NTkxXzQwNjY3/NDg3MDM3MjJfMi5q/cGc_c3c9NDAwJnNo/PTQwMCZzbT1maXQ"
+    },
+    {
+      "id": "A2",
+      "name": "Adidas Stan Smith",
+      "brand": "Adidas",
+      "description": "An iconic court-inspired sneaker with a clean, minimalist leather upper. A timeless casual classic.",
+      "size": "5",
+      "style": "sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/VSuDFjvXV32RZ8p_B6tGkazRidFlLUyE0WoXQqNO9J4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjF0QlNxNWRZRUwu/anBn"
+    },
+    {
+      "id": "A3",
+      "name": "Adidas Terrex Free Hiker",
+      "brand": "Adidas",
+      "description": "Lightweight and waterproof hiking boots designed for comfort on long trail runs and hikes.",
+      "size": "14",
+      "style": "boots",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/GlLF9MrqPQuRSE90gFtqjVR-rW3PB7dF8-UXyXfdxn4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bWVuc2pvdXJuYWwu/Y29tLy5pbWFnZS93/XzM4NDAscV9hdXRv/Omdvb2QsY19saW1p/dC9NakUxTXpnMU9U/azBOVGN4TURNeU1E/Z3ovYWRpZGFzLXRl/cnJleC1mcmVlLWhp/a2VyLTIuMC1sb3ct/aGlraW5nLXNob2Vz/LmpwZw"
+    },
+    {
+      "id": "A4",
+      "name": "Adidas NMD_R1 V2",
+      "brand": "Adidas",
+      "description": "Modern street-style sneaker combining vintage aesthetics with contemporary Boost cushioning for all-day comfort.",
+      "size": "4",
+      "style": "sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/yLcMTMzKQl2l8S_-ipcf2cRxhWSGHNtULf4xylAtX5U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS1jZG4uaHlwYi5z/dC9odHRwczovL2h5/cGViZWFzdC5jb20v/aW1hZ2UvMjAyMS8w/Ny9kaXNuZXktcGl4/YXItYWRpZGFzLW9y/aWdpbmFscy1ubWQt/cjEtYmxhY2stbXVs/dGktaGJ4LXJlbGVh/c2UtaW5mb3JtYXRp/b24tMC5qcGc_Zml0/PW1heCZjYnI9MSZx/PTkwJnc9NzUwJmg9/NTAw"
+    },
+    {
+      "id": "A5",
+      "name": "Adidas Predator Accuracy.1 (Turf)",
+      "brand": "Adidas",
+      "description": "High-performance football boots engineered for precision and power on turf pitches. Available in extended sizes.",
+      "size": "15",
+      "style": "sneakers",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/upafusI5dAEhC-ngEFhruinCQuYdVGH2Uo0J3Ug5M0k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bmlreXMtc3BvcnRz/LmNvbS9jZG4vc2hv/cC9wcm9kdWN0cy9Q/cmVkYXRvcl9BY2N1/cmFjeS4xX1R1cmZf/U29jY2VyX1Nob2Vz/X0JsYWNrX0dXNDYz/M18wNF9zdGFuZGFy/ZF8yMDAweC5qcGc_/dj0xNjc2NDE0NTgy"
+    },
+    {
+      "id": "A6",
+      "name": "Adidas Adilette Slides",
+      "brand": "Adidas",
+      "description": "The classic, comfortable slip-on slide for pre and post-swim sessions or casual home wear. Available in smaller sizes.",
+      "size": "3.5",
+      "style": "sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/PLpqq8g9WgV7oYbmnrPvrEyx4yZ1JHV8wmf4-RC8U_0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuYWRpZGFzLmNv/bS9pbWFnZXMvd184/NDAsaF84NDAsZl9h/dXRvLHFfYXV0bzpz/ZW5zaXRpdmUsZmxf/bG9zc3kvY2RhOGU5/ZWNiZDMxNDNlMThk/M2ZhZjQyMDBiY2Yx/N2FfOTM2Ni9IUTQ2/NzBfMDVfc3RhbmRh/cmQuanBn"
+    },
+    {
+      "id": "N1",
+      "name": "Nike Air Max 90",
+      "brand": "Nike",
+      "description": "A legendary sneaker known for its iconic visible Air cushioning and timeless design. Offered in extended sizing for a comfortable fit.",
+      "size": "15",
+      "style": "sneakers",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/Q-dtCNivb_Xf5E3gXQJv7tn2abRke5yklWNeQx62Qeo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pOC5h/bXBsaWVuY2UubmV0/L3QvanBsL2pkZGtf/cHJvZHVjdF9saXN0/P3BsdT1qZF83NTQ3/MzNfYmwmcWx0PTg1/JnFsdD05MiZ3PTM2/MyZoPTM2MyZ2PTEm/Zm10PWF1dG8"
+    },
+    {
+      "id": "N2",
+      "name": "Nike Revolution 6",
+      "brand": "Nike",
+      "description": "A light and flexible running shoe providing smooth transitions for everyday training and short runs. Available in very small sizes.",
+      "size": "3.5",
+      "style": "running_sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/1nzWhirJJ78c2tBiWsLxtVQjqo2vmKU8cDWlHizL3rA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bmlrZS5zYS9kdy9p/bWFnZS92Mi9CRFZC/X1BSRC9vbi9kZW1h/bmR3YXJlLnN0YXRp/Yy8tL1NpdGVzLWFr/ZW5lby1tYXN0ZXIt/Y2F0YWxvZy9kZWZh/dWx0L2R3OWUzZTNl/YWEvbmsvYWExLzkv/Ni84LzMvNi9hYTE5/NjgzNl84ODk1XzQx/MWJfODFiMV81Njc1/NGVhNTQ4YzUuanBn/P3N3PTcwMCZzaD03/MDAmc209Zml0JnE9/MTAwJnN0cmlwPWZh/bHNl"
+    },
+    {
+      "id": "N3",
+      "name": "Nike SFB Field 2 8\" Boot",
+      "brand": "Nike",
+      "description": "A rugged, durable boot designed for quick-moving operations with sticky traction and a strong midfoot plate.",
+      "size": "14.5",
+      "style": "boots",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/8CSjeLwqwGWa3CTiVODLzfM23zK0HXZWRUbr6Tn_8Kc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2IyL2E3/Lzc3L2IyYTc3N2U4/ZjY4MGUzMGFkMzkz/Y2EwYWM0MzI2ZDZj/LmpwZw"
+    },
+    {
+      "id": "N4",
+      "name": "Nike Blazer Mid '77 Vintage",
+      "brand": "Nike",
+      "description": "A classic basketball sneaker with a vintage look and clean suede accents. Popular model that runs well for smaller feet.",
+      "size": "4",
+      "style": "sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/GjOvg941VVzCayIuEGvPZvwi4c4vPkLA3IPhpI98KVc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbHNz/cG9ydHMudnRleGlt/Zy5jb20uYnIvYXJx/dWl2b3MvaWRzLzEz/MzU0ODgvTmlrZS1C/bGF6ZXItTWlkLS03/Ny1WaW50YWdlLVNo/b2UtLS1NZW4tcy0t/LUJsYWNrLS0tV2hp/dGUtLS1TYWlsLmpw/Zz92PTYzODIxMTgy/NDIxOTE3MDAwMA"
+    },
+    {
+      "id": "N5",
+      "name": "Nike Pegasus 40",
+      "brand": "Nike",
+      "description": "A highly versatile workhorse running shoe offering a balanced, neutral ride with a comfortable fit and ample cushioning.",
+      "size": "13",
+      "style": "running_sneakers",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/8avsKrh67rB82b9qPV806JWHqyEa__tPo-znvUs-Mv0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zbmVh/a2VybmV3cy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDEvbmlrZS1wZWdh/c3VzLTQwLXdvbWVu/cy13aGl0ZS1waWNh/bnRlLXJlZC1ibHVl/LXRpbnQtbGFzZXIt/b3JhbmdlLURWMzg1/NC0xMDItMy5qcGc"
+    },
+    {
+      "id": "N6",
+      "name": "Nike Dunk Low Retro",
+      "brand": "Nike",
+      "description": "A hardwood classic that became a street icon. Features crisp overlays and retro colors in a low-cut design.",
+      "size": "5.5",
+      "style": "sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/7ysbI_94PwK5tVnCI7GZd-EGpLbnqckupYg_BPxsl1c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly81dGhh/dmUtaW1nLWNkbi5i/ZXlvbmRzdHlsZS51/cy9wZi8wMjU1ZDJj/ZS01ZThjLTNiZTYt/YTE1Ni0zZmIzMzhl/YjgwMzYuanBnP3gt/b3NzLXByb2Nlc3M9/c3R5bGUvczE"
+    },
+     {
+      "id": "P1",
+      "name": "Puma Suede Classic XXI",
+      "brand": "Puma",
+      "description": "An iconic lifestyle shoe with a smooth suede upper and full-length rubber outsole. A great classic available in extended sizes.",
+      "size": "13",
+      "style": "sneakers",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/fg-c-z3s2eU5QraR6b9Yz66tkaIN_psBkDhgMX_8x8k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucHVtYS5jb20v/aW1hZ2UvdXBsb2Fk/L2ZfYXV0byxxX2F1/dG8sYl9yZ2I6ZmFm/YWZhLHdfNjAwLGhf/NjAwL2dsb2JhbC8z/NzQ5MTUvMDQvZm5k/L1BOQS9mbXQvcG5n/L1N1ZWRlLUNsYXNz/aWMtWFhJLVNuZWFr/ZXJz"
+    },
+    {
+      "id": "P2",
+      "name": "Puma Velocity Nitro 3",
+      "brand": "Puma",
+      "description": "A light and responsive running shoe featuring NITRO foam for superior cushioning and energy return. Excellent for smaller-footed runners.",
+      "size": "4.5",
+      "style": "running_sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/IiOKimsOmd8qvKnRRiVKnEKSEo3VSWciH7GSmxWmc4A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucnVubmVhLmNv/LnVrL2ltYWdlcy9w/cmljZXMvMjAyNTAy/L3J1bm5pbmctc2hv/ZXMtcHVtYS12ZWxv/Y2l0eS1uaXRyby0z/LXByby1kaXJlY3Qt/c3BvcnQtMTAwNzMy/OTI5NjMuanBn"
+    },
+    {
+      "id": "P3",
+      "name": "Puma Mayze Classic",
+      "brand": "Puma",
+      "description": "A stylish platform sneaker with a stacked sole for a bold, trendy look. Often popular in standard and smaller women's sizing.",
+      "size": "5",
+      "style": "sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/GyPqvnMGt9sd7EhO3YyUHlUInz42PZcYfIIg696DOw4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbnRl/cnNwb3J0LmRrL2Nk/bi9zaG9wL2ZpbGVz/L3B1bWEtMzg0MjA5/LTAwMy1kZXRhaWwt/eC0wMDAxLmpwZz92/PTE3MTQ3MTk5NzAm/d2lkdGg9MTk0Ng"
+    },
+    {
+      "id": "P4",
+      "name": "Puma Clyde All-Pro",
+      "brand": "Puma",
+      "description": "A performance basketball shoe designed for speed and agility, featuring high-rebound cushioning. Popular in larger court sizes.",
+      "size": "14",
+      "style": "sneakers",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/De-7sZ6c6u03QsDHbGg7Q2y73VjUYpVgUBFwfmA8d0w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubm92ZWxzaGlw/LmNvbS9wcm9kdWN0/L3B1bWFfY2x5ZGVf/YWxsX3Byb19fd2hp/dGVfZ3JleV9ibHVl/X18xOTU1MDlfMDZf/Ml8zMTU1Ni5qcGVn/P2ZpdD1maWxsJmJn/PUZGRkZGRiZ0cmlt/PWNvbG9yJmF1dG89/Zm9ybWF0LGNvbXBy/ZXNzJnE9NzUmaD00/MDA"
+    },
+    {
+      "id": "P5",
+      "name": "Puma TRC Blaze Mid",
+      "brand": "Puma",
+      "description": "A mid-cut, lightweight boot-style sneaker combining street style with rugged elements for unique, high-top comfort.",
+      "size": "13.5",
+      "style": "boots",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/VrdMlNQZEGNxQOKdABpvPjdAaQMIzx6EOFY0u370sCI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0xoQUFB/T1N3emxSamg2NEkv/cy1sNTAwLmpwZw"
+    },
+    {
+      "id": "P6",
+      "name": "Puma Rider FV",
+      "brand": "Puma",
+      "description": "A retro-inspired runner that is lightweight and comfortable, making it a great casual choice for everyday wear.",
+      "size": "3",
+      "style": "running_sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/ssdXMZsUXdEGSbGjB0om5Wk2CJOYqEomtLu3zScemlM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFYTDBtekZRLUwu/anBn"
+    },
+    {
+     "id": "NB1",
+      "name": "New Balance 990v6",
+      "brand": "New Balance",
+      "description": "An iconic running/lifestyle shoe known for its superior comfort, quality, and often available in wide and extra-wide sizes.",
+      "size": "15",
+      "style": "sneakers",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/zch4Bp6wdxND4OMuvYSaEEsNu0d9lrq15ocdxE3uLXU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc29sZXJldHJp/ZXZlci5jb20vYmxv/Zy81NDIyZjFjZmI5/ZGU1ZTcyZDBlZWZm/YzllMjQ0ZTFjNGVh/MjU3YWQyLTYyMHgz/ODAuanBnP3F1YWxp/dHk9ODAmZml0PWNs/aXAmYXV0bz1mb3Jt/YXQmd2lkdGg9MTYw/MA"
+    },
+    {
+      "id": "NB2",
+      "name": "New Balance Fresh Foam X 860v13",
+      "brand": "New Balance",
+      "description": "A popular stability running shoe offering firm support and durable cushioning for daily miles. Excellent small sizes are stocked.",
+      "size": "4",
+      "style": "running_sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/oG7aIoLwvKwobJtvbv_Kx34Xh8AfW3CTXgy62NG16iU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9uYi5z/Y2VuZTcuY29tL2lz/L2ltYWdlL05CL204/NjBkMTNfbmJfMDVf/aT8kZ29vZ2xlJA"
+    },
+    {
+      "id": "NB3",
+      "name": "New Balance 574 Core",
+      "brand": "New Balance",
+      "description": "A versatile, classic sneaker known for its comfortable fit and retro style. A reliable model in small and narrow fits.",
+      "size": "3.5",
+      "style": "sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/tg-JxZaz8vBbSl2OdHEUYLFMg1v3_UH9MCkcZ4D55bY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFGSHB4dVNudkwu/anBn"
+    },
+    {
+      "id": "NB4",
+      "name": "New Balance 1080v12",
+      "brand": "New Balance",
+      "description": "A flagship neutral running shoe providing a soft, plush ride. Frequently stocked in men's wide and extra-wide options.",
+      "size": "16",
+      "style": "running_sneakers",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/HNsdFjoFjd4UbTNPl_8Qvq5GG-eP_Z7RJ9DyWM4Ilkg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c29sZXJldmlldy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMDUvTmV3X0Jh/bGFuY2VfMTA4MFYx/Ml9vbl90aGVfd2F0/ZXJmcm9udF8xLTEw/MjR4NzY4LmpwZw"
+    },
+    {
+      "id": "NB5",
+      "name": "New Balance 327",
+      "brand": "New Balance",
+      "description": "A modern take on 70s heritage runners, featuring an angular silhouette and oversized 'N' logo. A stylish option for various foot sizes.",
+      "size": "14",
+      "style": "sneakers",
+      "size_type": "plus",
+      "image": "https://imgs.search.brave.com/nit6czoTzUqCpojw8MgfYbNc_dJoyAROVz0jzZX4Y0g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFUYnJnKzZLa0wu/anBn"
+    },
+    {
+      "id": "NB6",
+      "name": "New Balance All Coasts 210",
+      "brand": "New Balance",
+      "description": "A clean, vulcanized lifestyle shoe with a canvas upper, providing a minimalist look and light feel.",
+      "size": "5",
+      "style": "sneakers",
+      "size_type": "tiny",
+      "image": "https://imgs.search.brave.com/XgzXRo9FnofFioQfzltamb7plCZIicCF6V8-d4rLtRg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGljY2xpY2tpbWcu/Y29tL3Z6NEFBT1N3/QlExbFJudkwvTmV3/LUJhbGFuY2UtQWxs/LUNvYXN0LTIxMC1D/YXN1YWwtU25lYWtl/cnMtQU0yMTBQR0Iu/d2VicA"
+    }
+  ]
+}
